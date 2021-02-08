@@ -13,7 +13,7 @@ This is a staircase of size :
   ##
  ###
 ####
-Its base and height are both equal to . It is drawn using # symbols and spaces. The last line is not preceded by any spaces.
+Its base and height are both equal to n - 4 It is drawn using # symbols and spaces. The last line is not preceded by any spaces.
 
 Algo : Write a program that prints a staircase of size 
 
