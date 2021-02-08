@@ -24,7 +24,7 @@ Function Description:
 staircase has the following parameter(s):
 
 int n: an integer
-Print
+
 
 Solution: I went ahead and Printed a staircase as described above.
 
